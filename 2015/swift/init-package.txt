@@ -1,0 +1,2 @@
+/// How to initialize a new swift CLI program
+swift package init --name <package-name> --type executable
